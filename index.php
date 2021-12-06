@@ -3,4 +3,5 @@
   echo "hello world";
   echo "<br>";
   echo 2+2;
+  echo "hello";
 ?>
